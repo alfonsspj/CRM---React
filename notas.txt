@@ -1,0 +1,47 @@
+
+Routing
+
+con una libreria de routing puedes tener diferentes urls y mostrar diferentes componentes, asi 
+como restringir acceso a ciertas paginas
+
+un proyecto grande es mejor manejarlo en multiples pantallas, en lugar de un solo componente que revise multiples condiciones
+
+librerias
+- react router
+- react location       ->creador de react query
+
+ambos incorporan su propia libreria
+- gatsby
+- next.js 
+
+instalacion
+npm i react-router-dom
+
+primero BrowserRouter para decirle que queremos crear un nuevo routing o queremos registrar diferentes endpoints y que cargue ciertos componentes. Ese es el componente principal
+
+todas nuestras rutas van a estar dentro de este componente Routes
+
+cada un de las rutas va a utilizar el componente route
+
+<Route>          ----- lo va a detectar como un grupo de rutas anidadas 
+    <Route />      --- una sola ruta ---
+    <Route />     
+</Route>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
