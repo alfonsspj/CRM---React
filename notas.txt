@@ -40,6 +40,63 @@ opciones
 - react Hook form
 
 
+REST api
+- rest = representational state transfer 
+
+puede ser diseñada en cualquier lenguaje
+
+debe responder a los request HTTP: GET, POST, PUT, PATCH, DELETE
+
+tiene una forma ordenada y estructurada de poner a disposicion los recursos
+
+get = obtener
+
+post = enviar datos al servidor / creacion
+
+put/patch = actualizar 
+delete = eliminar
+
+endpoints de una rest api
+
+una rest api cune con endpoints(o urls) para hacer operaciones crud 
+
+- listar todos los clientes get /clientes
+
+- obtener un solo cliente Get /clientes/id   
+
+- crear un nuevo cliente post /clientes 
+
+- editar un cliente  put /clientes/id
+
+- borrar un cliente  delete /clientes/id
+
+usar JSON Server para crear la rest api
+
+ejecutar para que corra en el puerto 4000
+json-server --watch db.json --port 4000
+
+
+instalacion de forma global
+npm install -g json-server
+
+
+--- json server no posee seguridad --- solo es para practicar
+
+
+ejecutar en la consola
+json-server --watch db.json --port 4000
+
+
+try catch -- en java consume muchos recursos -- no es asi en js
+
+en una excelente forma de debugear un llamado hacia un api, cuando vas a crear un nuevo registro, porque te va a decir que la url no esta disponible, que el servidor esta caido, etc
+
+
+
+
+
+
+
 
 
 

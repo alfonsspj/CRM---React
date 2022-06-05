@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "alfonso",
+      "empresa": "codigo con juan",
+      "email": "correo@correo.com",
+      "telefono": "12312311",
+      "notas": "cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "alfonso",
+      "empresa": "codigo con juan",
+      "email": "correo@correo.com",
+      "telefono": "12312311",
+      "notas": "cliente recomendado por otro",
+      "id": 2
+    },
+    {
+      "nombre": "alfonso",
+      "empresa": "codigo con juan",
+      "email": "correo@correo.com",
+      "telefono": "12312311",
+      "notas": "cliente recomendado por otro",
+      "id": 3
+    },
+    {
+      "nombre": "juan",
+      "empresa": "adsfasd",
+      "email": "carpspj@gmail.com",
+      "telefono": "1214121",
+      "notas": "notasddddddd",
+      "id": 4
+    },
+    {
+      "nombre": "jose",
+      "empresa": "contrucciones",
+      "email": "jose_diass@hotmail.com",
+      "telefono": "465456456456",
+      "notas": "se necesita construir",
+      "id": 5
+    }
+  ]
+}
