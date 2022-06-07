@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "alfonso",
+      "nombre": "alfonso actualizado",
       "empresa": "codigo con juan",
       "email": "correo@correo.com",
       "telefono": "12312311",
@@ -39,6 +39,14 @@
       "telefono": "465456456456",
       "notas": "se necesita construir",
       "id": 5
+    },
+    {
+      "nombre": "pablo",
+      "empresa": "codigo",
+      "email": "codigo@codigo.com",
+      "telefono": "1287677861278",
+      "notas": "servidor cargar",
+      "id": 6
     }
   ]
 }
