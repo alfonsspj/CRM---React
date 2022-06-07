@@ -31,7 +31,7 @@ const VerCliente = () => {
         obtenerClientesAPI()
     }, [])
 
-    console.log(id)
+    // console.log(id)
 
     return (
 

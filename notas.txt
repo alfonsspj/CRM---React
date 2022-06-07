@@ -93,10 +93,13 @@ en una excelente forma de debugear un llamado hacia un api, cuando vas a crear u
 
 
 
+operador NULLISH COALESCING OPERATOR(??)
+nombre: cliente?.nombre ?? "",
+si cliente?.nombre es undefined marca(ejecuta) ""
+tambien es una forma de comprobar que un objeto tenga propiedades
 
-
-
-
+como ternario seria:
+nombre: cliente.nombre ? cliente.nombre : "",
 
 
 
