@@ -1,22 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "alfonso actualizado",
-      "empresa": "codigo con juan",
-      "email": "correo@correo.com",
-      "telefono": "12312311",
-      "notas": "cliente recomendado por otro",
-      "id": 1
-    },
-    {
-      "nombre": "alfonso",
-      "empresa": "codigo con juan",
-      "email": "correo@correo.com",
-      "telefono": "12312311",
-      "notas": "cliente recomendado por otro",
-      "id": 2
-    },
-    {
       "nombre": "alfonso",
       "empresa": "codigo con juan",
       "email": "correo@correo.com",
